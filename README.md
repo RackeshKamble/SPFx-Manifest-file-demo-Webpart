@@ -1,12 +1,16 @@
 ## sp-fx-manifest-file-wp-demo
-Refer file SpFxManifestFileWpDemoWebPart.manifest.json
+
+Refer file src/webparts/spFxManifestFileWpDemo/SpFxManifestFileWpDemoWebPart.manifest.json
+
 Manifest File Demo WP - Here we have done below
 
 Changed WP Group from Default to Text Media Content
+
 Refer - 
 developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json
 
 Added a new Icon from Fluent UI ICONN 
+
 Refer - https://developer.microsoft.com/en-us/fluentui#/styles/web/icons
 
 Enable Full Column Width Section Layout
