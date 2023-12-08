@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-manifest-file-wp-demo-client-side-solution",
+    "id": "09e10869-f89c-4aff-bdeb-e914db39393f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-manifest-file-wp-demo.sppkg"
+  }
+}

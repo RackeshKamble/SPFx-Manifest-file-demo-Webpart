@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sp-fx-manifest-file-wp-demo-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/spFxManifestFileWpDemo/SpFxManifestFileWpDemoWebPart.js",
+          "manifest": "./src/webparts/spFxManifestFileWpDemo/SpFxManifestFileWpDemoWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpFxManifestFileWpDemoWebPartStrings": "lib/webparts/spFxManifestFileWpDemo/loc/{locale}.js"
+  }
+}
